@@ -1,0 +1,78 @@
+*************************************************************
+FileName = Protoboard.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : Protoboard.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Protoboard.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Protoboard.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Protoboard.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Protoboard.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D16
+*************************************************************
+
