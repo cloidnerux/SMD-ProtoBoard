@@ -6,6 +6,7 @@ Designed with Altium Designer, the used gerbers for ordering are in the "Protobo
 Stuff that can be better:
 * Add solder resist around the pads
 * Make a special region for QFN and other packages with elongated pads for easy access
+* Make regions with VIAs to access power pads on the bottom side of packages
 * Include common connectors(USB, DSUB) on PCB border
 * Check more footprints if they fir the grid, if not perhaps change the grid
 * Test other grid patterns(log, X/Y-different size)
